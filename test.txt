@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test
 
+=======
+SQL
+>>>>>>> feature/featurebranch2
